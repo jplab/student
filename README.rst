@@ -10,7 +10,7 @@ Klicken Sie auf den Binder icon:
 .. image:: https://mybinder.org/badge.svg 
    :target: https://mybinder.org/v2/gh/jplab/student/master?filepath=Studentsche_Verteilung.ipynb
 
-`Statische Version <https://github.com/jplab/student/blob/master/Studentsche_Verteilung.slides.html>`_.
+`Statische Version <https://htmlpreview.github.io/?https://github.com/jplab/student/blob/master/Studentsche_Verteilung.slides.html>`_.
 
 
 Beispiel -- Konfidenzintervall
