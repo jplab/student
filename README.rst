@@ -32,3 +32,13 @@ Klicken Sie auf den Binder icon:
    :target: https://mybinder.org/v2/gh/jplab/student/master?filepath=HypotheseTest.ipynb
 
 `Statische Version <http://page.mi.fu-berlin.de/labbe/pages/HypotheseTest.slides.html>`_.
+
+
+Sagemath Spielplatz
+===================================
+
+Klicken Sie auf den Binder icon:
+
+.. image:: https://mybinder.org/badge.svg 
+   :target: https://mybinder.org/v2/gh/jplab/student/master?filepath=Spielplatz.ipynb
+
